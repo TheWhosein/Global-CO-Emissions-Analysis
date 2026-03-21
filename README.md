@@ -1,4 +1,4 @@
-# Global-CO-Emissions-Analysis
+# Global-CO2-Emissions-Analysis
 
 ## 📂 Dataset
 
